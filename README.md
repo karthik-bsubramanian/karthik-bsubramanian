@@ -14,7 +14,7 @@ Hey there! Stalker 👀😏
 I don't just wanna be another dev who builds things.
 
 I'm obsessed with how things work. I go deep. I lose hours going off-track, digging into internals instead of just using stuff on the surface.  
-My bookmarks? They’re an endless jungle of articles, docs, RFCs — all tagged "read later", and somehow they just keep going forever.  
+My bookmarks? They’re an endless jungle of articles, docs, RFCs - all tagged "read later", and somehow they just keep going forever.  
 I couldn't catch up reading all of those yet.
 
 Honestly, I like staying hectic😂. Always got a side project running so I never hit boredom mode.  
